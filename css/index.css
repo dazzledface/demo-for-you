@@ -1,0 +1,32 @@
+/* styles for text elements */
+
+* {
+  color: orange;
+}
+
+h1 {
+   background-color: pink;
+   font-size: 3rem;
+   color: purple;
+ }
+
+ .red-txt {
+   background-color: white;
+   color: red;
+ }
+
+ #grn-txt {
+   color: green;
+ }
+
+ .big-txt {
+   font-size: 5rem;
+ }
+
+ p em {
+   color: red;
+ }
+
+ a:hover, a {
+   color: lightseagreen;
+ }
